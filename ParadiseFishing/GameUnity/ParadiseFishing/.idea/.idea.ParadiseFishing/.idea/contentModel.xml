@@ -8,11 +8,16 @@
       <e p="Assets" t="Include">
         <e p="mouselook.cs" t="Include" />
         <e p="Scripts" t="Include">
+          <e p="AnimatorSetTrigger.cs" t="Include" />
           <e p="Cc.cs" t="Include" />
           <e p="CMouseControl.cs" t="Include" />
           <e p="CMover.cs" t="Include" />
           <e p="PlayerMover.cs" t="Include" />
           <e p="PLook.cs" t="Include" />
+          <e p="RefFish.cs" t="Include" />
+          <e p="SelectRandomObj.cs" t="Include" />
+          <e p="Trigger.cs" t="Include" />
+          <e p="WaitForSetTime.cs" t="Include" />
         </e>
       </e>
       <e p="obj" t="ExcludeRecursive" />
