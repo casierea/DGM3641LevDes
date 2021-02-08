@@ -9,9 +9,11 @@
         <e p="mouselook.cs" t="Include" />
         <e p="Scripts" t="Include">
           <e p="AnimatorSetTrigger.cs" t="Include" />
+          <e p="AnimController.cs" t="Include" />
           <e p="Cc.cs" t="Include" />
           <e p="CMouseControl.cs" t="Include" />
           <e p="CMover.cs" t="Include" />
+          <e p="PickItUp.cs" t="Include" />
           <e p="PlayerMover.cs" t="Include" />
           <e p="PLook.cs" t="Include" />
           <e p="RefFish.cs" t="Include" />
